@@ -1,17 +1,52 @@
-# flutter_application_1
+# RuangKita
 
-A new Flutter project.
+RuangKita adalah aplikasi Flutter yang digunakan untuk menampilkan informasi
+ketersediaan dan jadwal penggunaan ruang laboratorium.
 
-## Getting Started
+## Identitas
 
-This project is a starting point for a Flutter application.
+- Nama: Hendra Yudha Pratama
+- NIM: 362558302101
+- Mata Kuliah: Pemrograman Mobile
 
-A few resources to get you started if this is your first Flutter project:
+## Deskripsi Project
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Aplikasi RuangKita dibuat untuk memudahkan pengguna melihat informasi
+ruangan laboratorium, aktivitas praktikum, jadwal penggunaan ruangan,
+serta status ruangan.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Aplikasi memiliki tampilan dashboard yang responsif sehingga dapat
+menyesuaikan tampilan pada berbagai ukuran layar.
+
+## Fitur
+
+- Menampilkan daftar ruang laboratorium
+- Menampilkan nama kegiatan/praktikum
+- Menampilkan jadwal penggunaan ruangan
+- Menampilkan status ruangan
+- Filter ruangan berdasarkan status
+- Melihat detail ruangan
+- Tampilan responsif untuk berbagai ukuran layar
+
+## Status Ruangan
+
+Status ruangan yang tersedia:
+
+- Berlangsung
+- Akan Datang
+- Selesai
+- Tersedia
+
+## Teknologi
+
+- Flutter
+- Dart
+- Material Design
+- Responsive Layout
+
+## Cara Menjalankan Project
+
+1. Clone repository:
+
+```bash
+git clone https://github.com/hendrayudha0903-ship-it/RuangKita.git

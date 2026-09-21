@@ -50,3 +50,29 @@ Status ruangan yang tersedia:
 
 ```bash
 git clone https://github.com/hendrayudha0903-ship-it/RuangKita.git
+
+## Fitur
+
+- Menampilkan daftar ruangan laboratorium.
+- Menampilkan aktivitas praktikum.
+- Menampilkan jadwal penggunaan ruangan.
+- Menampilkan status ruangan.
+- Filter ruangan berdasarkan status.
+- Menampilkan detail ruangan melalui Bottom Sheet.
+- Tampilan responsive untuk berbagai ukuran layar.
+
+## Cara Menjalankan Project
+
+Pastikan Flutter sudah terinstall, kemudian jalankan:
+
+```bash
+flutter pub get
+flutter run
+
+
+### Langkah 2 — simpan
+
+Tekan:
+
+```text
+Ctrl + S

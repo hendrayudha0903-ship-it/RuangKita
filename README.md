@@ -76,3 +76,13 @@ Tekan:
 
 ```text
 Ctrl + S
+
+## Status Project
+
+Project RuangKita telah selesai dibuat dan diuji.
+
+Fitur yang tersedia:
+- Menampilkan daftar ruangan laboratorium
+- Filter berdasarkan status ruangan
+- Menampilkan detail ruangan
+- Tampilan responsive
